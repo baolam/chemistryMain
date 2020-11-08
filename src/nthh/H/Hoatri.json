@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        },
+        {
+            "input" : "H",
+            "output" : 1
+        }
+    ]
+}
